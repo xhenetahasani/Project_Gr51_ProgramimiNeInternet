@@ -1,4 +1,4 @@
-?php
+<?php
 namespace Models;
 include_once 'BaseModel.php';
 class DepartmentsModel extends BaseModel{
